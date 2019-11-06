@@ -4,6 +4,7 @@
   "description": "inicio del proyecto",
   "main": "index.js",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TowerChair/bootS4/issues"
   },
-  "homepage": "https://github.com/TowerChair/bootS4#readme"
+  "homepage": "https://github.com/TowerChair/bootS4#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
