@@ -19,5 +19,10 @@
   "homepage": "https://github.com/TowerChair/bootS4#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
   }
 }
