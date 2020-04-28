@@ -1,12 +1,14 @@
 .jumbotron{
   background-color: #D8BFD8;
   color:#2F383D  ;
-  margin-top: 50px;
+  margin-top: 30px;
+
 }
 .footer{
   padding: 10px 10px 0 10px;
   background-color:#78C2EF;
   margin-bottom: 0px;
+  margin-top: 100px;
   color:#2F383D;
 }
 .btn{
